@@ -1,6 +1,6 @@
 # ARM64 Assembly Learning Journey
 
-This repository documents my path of mastering AArch64 (ARMv8-A) assembly.
+This repository documents my path of mastering AArch64 (ARMv8-A) assembly for MacOS M series.
 I focus on writing pure assembly first, then integrating it with C to build a minimal libc.
 
 ## Structure
