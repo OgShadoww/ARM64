@@ -6,6 +6,7 @@ I focus on writing pure assembly first, then integrating it with C to build a mi
 ## Structure
 - `/docs` → theory and notes.
 - `/examples` → independent programs.
+- `/assets` → images and other assets.      
 
 ## Environment
 - macOS M-series
