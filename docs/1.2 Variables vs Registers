@@ -1,0 +1,13 @@
+# 1.2 Registers vs Variables
+
+## Differences between variables and registers
+---
+- Registers: 
+	- Fast cells in CPU
+	- Simple operations 
+	- Not used to store any information
+- Variables:
+	- Lived in stack
+	- Names is just offset in stack
+	- Store operate load in .text
+
